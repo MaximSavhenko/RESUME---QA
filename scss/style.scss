@@ -510,6 +510,12 @@ h2 {
         }
     }
 
+    &__skills-progresKatalon{
+        &::before {
+            width: 40%;
+        }
+    }
+
     &__skills-progresH {
         &::before {
             width: 65%;
